@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Aneta
+
+🔭 I’m currently working on my web development and design skills.
+🌱 I’m currently learning q, SCSS, CSS.
+⚡ Fun fact: I switched from finance to computer science 😄⚡⚡⚡
 
 <!--
 **AnetaIvanova/AnetaIvanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
