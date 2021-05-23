@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Aneta
 
-🔭 I’m currently working on systems design & integration; on my web development skills.
+🔭 I’m currently working on systems design & integration and on my web development skills.
 
 🌱 I’m currently learning q, SCSS, CSS.
 
